@@ -1,0 +1,12 @@
+{
+  "name": "temperature",
+  "version": "1.0.0",
+  "main": "main.js",
+  "license": "MIT",
+  "dependencies": {
+    "nodemon": "^2.0.6"
+  },
+  "scripts": {
+    "start": "nodemon main.js"
+  }
+}
