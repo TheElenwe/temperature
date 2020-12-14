@@ -13,7 +13,7 @@ let counter=setInterval(function(){
     else if (daynight<8){
       console.log(`${daynight}\u00b0 on`)
     }
-    else if (daynight>=8){
+    else  {
       console.log(`${daynight}\u00b0 off`)
     }
    daynight+=count
